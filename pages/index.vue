@@ -214,7 +214,7 @@ export default {
 }
 
 #one-a h1 {
-  font-size: 3.8rem;
+  font-size: 3.4rem;
 }
 
 #one-a p {
