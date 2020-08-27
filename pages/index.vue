@@ -178,6 +178,10 @@
           </div>
         </div>
       </div>
+      <hr class="mt-3">
+      <div class="text-center mt-3">
+        <h5 id="footer-note">2020 GladePayDigital</h5>
+      </div>
     </footer>
   </section>
 </template>
@@ -381,5 +385,14 @@ footer h6 {
   color: #00afef;
   font-size: 1rem;
   font-weight: 700;
+}
+
+hr {
+  color: #77869e;
+  background-color: #77869e;
+}
+
+#footer-note {
+  font-weight: 100;
 }
 </style>
