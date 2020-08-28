@@ -6,7 +6,7 @@
         <div class="row">
           <div id="one-a" class="col-md-7">
             <div>
-              <h1>A well-defined digital <br> financial services <br> company</h1>
+              <h1>A Well-Defined Digital <br> Financial services <br> Company</h1>
               <p class="mt-3">With a drive to offer top-notch solutions using state of <br> the art infrastructures to enhance innovations and help <br> small businesses in Africa to grow globally.</p>
               <button type="button" class="mt-3 btn btn-outline-warning px-5 py-2">EXPLORE</button>
             </div>
