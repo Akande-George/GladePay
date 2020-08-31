@@ -178,7 +178,7 @@
           </div>
         </div>
       </div>
-      <hr class="mt-3">
+      <hr class="mt-3 col-md-10 mx-auto">
       <div class="text-center mt-3">
         <h5 id="footer-note">2020 GladePayDigital</h5>
       </div>
